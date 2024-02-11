@@ -9,7 +9,7 @@ This repository is a series of studies about GOF Design Patterns.
 
 ## Design patterns:
 
-- [ ] Singleton
+- [x] Singleton
 - [ ] Builder
 - [ ] Prototype
 - [ ] Factory
